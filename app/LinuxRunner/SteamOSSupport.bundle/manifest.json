@@ -16,10 +16,10 @@
   },
   "packages": [
     {
-      "name": "x11vnc-1:0.9.17-1-aarch64.pkg.tar.xz",
-      "url": "https://fl.us.mirror.archlinuxarm.org/aarch64/extra/x11vnc-1:0.9.17-1-aarch64.pkg.tar.xz",
-      "sha256": "28f757a6b8f495eda9a0c4d6385ad68d72ab143e5f0e613885ff8ca95cc58549",
-      "bytes": 661920
+      "name": "x11vnc-1:0.9.17-2-aarch64.pkg.tar.xz",
+      "url": "https://fl.us.mirror.archlinuxarm.org/aarch64/extra/x11vnc-1:0.9.17-2-aarch64.pkg.tar.xz",
+      "sha256": "2c1440cd44aa72b95756fb2dbcbdb68818bacfdcc4605aa586f0090da2655946",
+      "bytes": 654248
     },
     {
       "name": "libvncserver-0.9.15-1-aarch64.pkg.tar.xz",
